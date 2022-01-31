@@ -1,0 +1,25 @@
+.Header {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+
+  background: #333333;
+}
+
+.Title {
+  position: absolute;
+  width: 263px;
+  height: 47px;
+  left: 588px;
+  top: 27px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  color: white;
+}

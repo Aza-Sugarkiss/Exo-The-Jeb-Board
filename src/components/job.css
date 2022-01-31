@@ -1,0 +1,103 @@
+.Jobs div {
+  width: 300px;
+  height: 300px;
+}
+
+.Job-01 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #e30413;
+}
+
+.Job-02 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #3ea535;
+}
+
+.Job-03 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #ffee00;
+}
+
+.Job-04 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #039fe3;
+}
+
+.Job-05 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #f8c5af;
+}
+
+.Job-06 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #e30413;
+}
+
+.Job-07 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #3ea535;
+}
+
+.Job-08 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #ffee00;
+}
+
+.Job-09 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 10px solid #039fe3;
+}

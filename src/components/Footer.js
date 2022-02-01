@@ -1,7 +1,7 @@
 import "./footer.css";
 
 const Footer = (props) => {
-  return;
+  return props;
 };
 
 export default Footer;

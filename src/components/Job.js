@@ -1,7 +1,7 @@
 import "./job.css";
 
 const Job = (props) => {
-  return;
+  return props;
 };
 
 export default Job;

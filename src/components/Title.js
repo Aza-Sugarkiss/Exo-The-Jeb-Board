@@ -1,7 +1,5 @@
-import "./title.css";
-
-const Title = (props) => {
-  return <h1 className={props.color}>{props.content}</h1>;
+const Title = () => {
+  return <h1 style={{ color: "white" }}>The Job Board</h1>;
 };
 
 export default Title;

@@ -1,7 +1,5 @@
-import "./footer.css";
-
-const Footer = (props) => {
-  return props;
+const Footer = () => {
+  return <div>Footer Component</div>;
 };
 
 export default Footer;
